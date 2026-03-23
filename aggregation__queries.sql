@@ -11,5 +11,4 @@ SELECT name_store, COUNT (name) AS total_items
 FROM products_data_all
 GROUP BY name_store;
 
-SELECT (*) FROM products_data_all;
 
