@@ -20,4 +20,6 @@ FROM products_data_all
 
 WHERE name_store = 'T-E-B';
 
+SELECT * COUNT (*) FROM products_data_all;
+
 
